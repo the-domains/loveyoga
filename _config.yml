@@ -1,7 +1,7 @@
 name: loveyoga
 favicon: null
-layout_spectrum: 0.6465931120328605
-typography_spectrum: 0.21616150601767004
+layout_spectrum: 0.94152
+typography_spectrum: 0.66778
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.998990735039115
-  lightness: 0.3790690388996154
-  saturation: 0.8206862155348063
-  rhythmicContrast: 0.36777524347417057
+    - '#0077a1'
+    - '#070e0e'
+    - '#663125'
+    - '#cadee3'
+    - '#9d614b'
+  brandStrength: 0.875
+  lightness: 0.6875
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
