@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-06T22:18:03.473Z'
-dateModified: '2016-03-06T22:15:07.380Z'
+datePublished: '2016-03-06T22:20:18.517Z'
+dateModified: '2016-03-06T22:19:44.191Z'
 title: 'Welcome Yoga Lover ♡ '
 author: []
 sourcePath: _posts/2016-03-06-welcome-yoga-lover-heart-suit.md
@@ -22,4 +22,4 @@ url: welcome-yoga-lover-heart-suit/index.html
 _type: Article
 
 ---
-# Welcome Yoga Lover ♡ ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbb8ad0d-899b-4443-882d-340b92f6e7ed.jpg)
+# Welcome Yoga Lover ♡ ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/18fb6303c1e0ff9b84655ae2c925ada09f2c90ee.jpg)
