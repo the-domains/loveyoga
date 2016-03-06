@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T22:48:43.306Z'
-dateModified: '2016-03-06T22:48:40.034Z'
+datePublished: '2016-03-06T22:50:03.583Z'
+dateModified: '2016-03-06T22:48:50.701Z'
 title: The Wonderful Benefits of Yoga
 author: []
 sourcePath: _posts/2016-03-06-the-wonderful-benefits-of-yoga.md
