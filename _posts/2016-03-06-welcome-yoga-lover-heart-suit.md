@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-06T22:20:18.517Z'
-dateModified: '2016-03-06T22:19:44.191Z'
+datePublished: '2016-03-06T22:22:32.629Z'
+dateModified: '2016-03-06T22:22:11.316Z'
 title: 'Welcome Yoga Lover ♡ '
 author: []
 sourcePath: _posts/2016-03-06-welcome-yoga-lover-heart-suit.md
