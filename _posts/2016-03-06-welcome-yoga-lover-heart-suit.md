@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-06T22:14:36.637Z'
-dateModified: '2016-03-06T22:14:21.175Z'
+datePublished: '2016-03-06T22:18:03.473Z'
+dateModified: '2016-03-06T22:15:07.380Z'
 title: 'Welcome Yoga Lover ♡ '
 author: []
+sourcePath: _posts/2016-03-06-welcome-yoga-lover-heart-suit.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-06-welcome-yoga-lover-heart-suit.md
-published: true
 url: welcome-yoga-lover-heart-suit/index.html
 _type: Article
 
