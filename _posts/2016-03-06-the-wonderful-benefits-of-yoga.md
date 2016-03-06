@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T22:43:24.295Z'
-dateModified: '2016-03-06T22:43:17.453Z'
+datePublished: '2016-03-06T22:44:24.315Z'
+dateModified: '2016-03-06T22:44:00.386Z'
 title: The Wonderful Benefits of Yoga
 author: []
+sourcePath: _posts/2016-03-06-the-wonderful-benefits-of-yoga.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-06-the-wonderful-benefits-of-yoga.md
-published: true
 url: the-wonderful-benefits-of-yoga/index.html
-_type: WebPage
+_type: Article
 
 ---
 Yoga is good for Body, Spirit and Mind.
