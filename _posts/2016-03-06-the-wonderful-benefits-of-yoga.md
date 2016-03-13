@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-06T22:50:03.583Z'
-dateModified: '2016-03-06T22:48:50.701Z'
-title: The Wonderful Benefits of Yoga
+description: 'Yoga is good for Body, Spirit and Mind.'
+datePublished: '2016-03-13T14:18:42.442Z'
+dateModified: '2016-03-13T14:18:37.113Z'
+title: "Yoga's Wonderful Benefits"
 author: []
 sourcePath: _posts/2016-03-06-the-wonderful-benefits-of-yoga.md
 published: true
