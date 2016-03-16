@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "1\_\_ Discover Yoga "
-datePublished: '2016-03-16T23:07:44.058Z'
-dateModified: '2016-03-16T23:07:37.474Z'
+datePublished: '2016-03-16T23:30:51.079Z'
+dateModified: '2016-03-16T23:08:40.190Z'
 title: Yoga Classes
 author: []
 sourcePath: _posts/2016-03-16-yoga-classes.md
@@ -22,7 +22,7 @@ url: yoga-classes/index.html
 _type: WebPage
 
 ---
-## In my home studio 
+## In my home studio ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd029d29ce0c43eb674d36bb78494af4a5dd7c53.jpg)
 
 **1   Discover Yoga **
 
@@ -33,7 +33,6 @@ This are the basics. If you are new to yoga this is it! Just try it...
 
 everyone
 is new so have no shame! Play and let it go.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd029d29ce0c43eb674d36bb78494af4a5dd7c53.jpg)
 
 **2 Tone your Body for Summer Yoga**
 
