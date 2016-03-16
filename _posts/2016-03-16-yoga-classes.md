@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "1\_\_ Discover Yoga "
-datePublished: '2016-03-16T23:00:23.124Z'
-dateModified: '2016-03-16T22:58:56.866Z'
+datePublished: '2016-03-16T23:07:44.058Z'
+dateModified: '2016-03-16T23:07:37.474Z'
 title: Yoga Classes
 author: []
 sourcePath: _posts/2016-03-16-yoga-classes.md
@@ -43,15 +43,14 @@ Each Saturday morning and Wednesday evening
 
 This are Vinyasa Flow Classes with a lot
 of Yang energy. Get energized and **core-toned** for steamy summer nights! Let's detox first and
-the get all the sweet sukha back into our lives. You'll love this! I promise. 
+then get all the sweet sukha (this is the good stuff) back into our lives. You'll love this! 
 
-Each Class is 75' and starts with Pranayama or breathing exercise. Followed by warming-up and then we start flowing. At the end there is always Savasana.
+I promise. 
 
-## 
+Each Class is 75' and starts with Pranayama or Breathing exercises. Followed by warming-up and then we start flowing. At the end there is always Savasana. 
 
 ## On the move.. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae7bae5c-403c-421a-b988-2e51f9cbde43.jpg)
 
-If you wish to have your lessons in the confrot of your own home or work space. I'm totally in to it! Contact me and we can surely work things out.   
+If you wish to have your lessons in the confort of your own home or work space. I'm totally in to it! Contact me and we can surely work things out. 
 
-  
 ****
