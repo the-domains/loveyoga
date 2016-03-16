@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Let me share some of my heart with you
-datePublished: '2016-03-06T00:03:18.646Z'
-dateModified: '2016-03-06T00:03:12.223Z'
+description: "One of my first Loves must have been the sunrise and although I am a child of the Sun I'm also a child from the Mountains. "
+datePublished: '2016-03-16T23:31:09.458Z'
+dateModified: '2016-03-16T23:31:05.652Z'
 title: 'My Favorite Things '
 author: []
 sourcePath: _posts/2016-03-05-my-favorite-things.md
@@ -27,5 +27,7 @@ _type: WebPage
 One of my first Loves must have been the sunrise and although I am a child of the Sun I'm also a child from the Mountains. 
 
 I want to share some music with you: [music for the soul][0]
+
+[][0]
 
 [0]: https://open.spotify.com/user/wendymontellano/playlist/0krajvdfbqw2zPLPBjLPok
