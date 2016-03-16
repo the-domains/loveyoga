@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "1\_\_ Discover Yoga "
-datePublished: '2016-03-16T22:51:57.541Z'
-dateModified: '2016-03-16T22:51:50.785Z'
+datePublished: '2016-03-16T23:00:23.124Z'
+dateModified: '2016-03-16T22:58:56.866Z'
 title: Yoga Classes
 author: []
 sourcePath: _posts/2016-03-16-yoga-classes.md
@@ -19,10 +19,10 @@ publisher:
   url: null
   favicon: null
 url: yoga-classes/index.html
-_type: Article
+_type: WebPage
 
 ---
-## Classes in my home studio 
+## In my home studio 
 
 **1   Discover Yoga **
 
@@ -33,6 +33,7 @@ This are the basics. If you are new to yoga this is it! Just try it...
 
 everyone
 is new so have no shame! Play and let it go.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd029d29ce0c43eb674d36bb78494af4a5dd7c53.jpg)
 
 **2 Tone your Body for Summer Yoga**
 
@@ -42,8 +43,15 @@ Each Saturday morning and Wednesday evening
 
 This are Vinyasa Flow Classes with a lot
 of Yang energy. Get energized and **core-toned** for steamy summer nights! Let's detox first and
-the get all the sweet sukha back into our lives. You'll love this! I promise. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1e9c57e-1068-4976-ab62-c557533254d3.jpg)
+the get all the sweet sukha back into our lives. You'll love this! I promise. 
 
 Each Class is 75' and starts with Pranayama or breathing exercise. Followed by warming-up and then we start flowing. At the end there is always Savasana.
 
-**I can also meet you in the confort of your own home**. Contact me for details.
+## 
+
+## On the move.. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae7bae5c-403c-421a-b988-2e51f9cbde43.jpg)
+
+If you wish to have your lessons in the confrot of your own home or work space. I'm totally in to it! Contact me and we can surely work things out.   
+
+  
+****
