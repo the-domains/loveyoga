@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Yoga is good for Body, Spirit and Mind.'
-datePublished: '2016-03-17T10:44:39.617Z'
-dateModified: '2016-03-17T10:43:41.339Z'
+datePublished: '2016-03-20T16:50:09.190Z'
+dateModified: '2016-03-17T10:44:48.497Z'
 title: "Yoga's Wonderful Benefits"
 author: []
 sourcePath: _posts/2016-03-06-the-wonderful-benefits-of-yoga.md
