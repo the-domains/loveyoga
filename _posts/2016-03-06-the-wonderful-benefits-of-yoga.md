@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Yoga is good for Body, Spirit and Mind.'
-datePublished: '2016-03-20T16:50:09.190Z'
-dateModified: '2016-03-17T10:44:48.497Z'
+datePublished: '2016-03-20T16:50:21.810Z'
+dateModified: '2016-03-20T16:50:19.461Z'
 title: "Yoga's Wonderful Benefits"
 author: []
 sourcePath: _posts/2016-03-06-the-wonderful-benefits-of-yoga.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 Yoga is good for Body, Spirit and Mind.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/829d989e-fd05-4d87-959d-669bff4231ea.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/82e754d930c09584f48751ab4c651fd438e8ca7a.jpg)
 
 Most people start their yoga journey with the thought of body work. Everyone wants the 'yoga body' right...
 
