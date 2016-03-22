@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "1\_\_ Discover Yoga "
-datePublished: '2016-03-22T08:36:00.735Z'
-dateModified: '2016-03-22T08:35:42.288Z'
+datePublished: '2016-03-22T08:39:05.402Z'
+dateModified: '2016-03-22T08:38:57.549Z'
 title: Yoga Classes
 author: []
 sourcePath: _posts/2016-03-16-yoga-classes.md
@@ -60,9 +60,17 @@ Van 09 april elke zaterdag en woensdag.
 Dit zijn Vinyasa Flow lessen waarin je Yin en Yang energie weer in balans wordt gebracht. Laad je lichaam op met energie en werk aan je**core** (dit is de kern of centrum van je lichaam) voor stomende zomer-avonden! Detox eerst om daarna je lichaam met heerlijke Sukha (dit is al het goede en 'zoete') te vullen. 
 
 Elke les begint met Pranayama of Ademhalings oefeningen gevolgd door een opwarming en Asana's. Op het einde is er altijd een rustmoment of Savasana.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae7bae5c-403c-421a-b988-2e51f9cbde43.jpg)
 
-## On the move.. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae7bae5c-403c-421a-b988-2e51f9cbde43.jpg)
+## On the move.. 
 
 If you wish to have your lessons in the confort of your own home or work space. I'm totally in to it! Contact me and we can surely work things out. 
+
+## Zal ik naar je toekomen?
+
+Als je wens kan ik ook naar jou toekomen :-) 
+
+Ik bied privé lessen voor jou alleen of voor groepen.   
+Prijzen zijn over een te komen.
 
 ****
