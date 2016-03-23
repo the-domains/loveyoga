@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Most people start their yoga journey with the thought of body work. Everyone wants the 'yoga body' right... Well let me tell you something! You have a body.... therefore you have already a yoga body! Jey\_ "
-datePublished: '2016-03-23T14:55:19.717Z'
-dateModified: '2016-03-23T14:55:15.883Z'
+datePublished: '2016-03-23T14:58:35.071Z'
+dateModified: '2016-03-23T14:55:28.078Z'
 title: "Yoga's Wonderful Benefits"
 author: []
 sourcePath: _posts/2016-03-06-the-wonderful-benefits-of-yoga.md
