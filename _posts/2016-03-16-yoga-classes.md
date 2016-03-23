@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "1\_\_ Discover Yoga "
-datePublished: '2016-03-23T09:13:48.176Z'
-dateModified: '2016-03-23T09:13:15.265Z'
+datePublished: '2016-03-23T10:50:18.296Z'
+dateModified: '2016-03-23T09:13:49.162Z'
 title: Yoga Classes
 author: []
 sourcePath: _posts/2016-03-16-yoga-classes.md
@@ -64,9 +64,9 @@ Elke les begint met Pranayama of Ademhalings oefeningen gevolgd door een opwarmi
 
 ## On the move.. 
 
-If you wish to have your lessons in the confort of your own home or work space. I'm totally in to it! Contact me and we can surely work things out. 
+If you wish to have your lessons in the confort of your own home or work space. I'm totally in to it! Contact me and we can surely work things out....
 
-## Ik kan ook naar je toekomen...
+## Lessen onderweg
 
 Als je wens kan ik ook naar jou toekomen :-)                                                      Ik bied privé lessen voor jou alleen of voor groepen.  Contacteer me gerust met je vragen. 
 
