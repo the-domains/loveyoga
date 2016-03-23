@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Most people start their yoga journey with the thought of body work. Everyone wants the 'yoga body' right... Well let me tell you something! You have a body.... therefore you have already a yoga body! Jey\_ "
-datePublished: '2016-03-22T08:55:39.653Z'
-dateModified: '2016-03-22T08:52:06.716Z'
+datePublished: '2016-03-23T10:48:36.954Z'
+dateModified: '2016-03-23T10:48:28.684Z'
 title: "Yoga's Wonderful Benefits"
 author: []
 sourcePath: _posts/2016-03-06-the-wonderful-benefits-of-yoga.md
@@ -22,7 +22,7 @@ url: the-wonderful-benefits-of-yoga/index.html
 _type: Article
 
 ---
-## Yoga is good for Body, Spirit and Mind. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d3d8cd1-be87-4127-b62a-d5ad0b9a7560.png)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/82e754d930c09584f48751ab4c651fd438e8ca7a.jpg)
+## Yoga is good for Body, Spirit and Mind. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/82e754d930c09584f48751ab4c651fd438e8ca7a.jpg)
 
-Most people start their yoga journey with the thought of body work. Everyone wants the 'yoga body' right... Well let me tell you something! You have a body.... therefore you have already a yoga body! Jey  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4274f459-9f00-4d7f-9fbe-0165bbf50a52.jpg)
+Most people start their yoga journey with the thought of body work. Everyone wants the 'yoga body' right... Well let me tell you something! You have a body.... therefore you have already a yoga body! Jey  ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fa0026ac93cd2b45727dda8fde385382/croprotate.png?cropheight=1083&cropwidth=1000&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F3d3d8cd1-be87-4127-b62a-d5ad0b9a7560.png&x=0&y=16)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4274f459-9f00-4d7f-9fbe-0165bbf50a52.jpg)
