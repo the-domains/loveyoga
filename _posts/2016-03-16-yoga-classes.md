@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "1\_\_ Discover Yoga "
-datePublished: '2016-03-22T08:39:05.402Z'
-dateModified: '2016-03-22T08:38:57.549Z'
+datePublished: '2016-03-23T09:13:48.176Z'
+dateModified: '2016-03-23T09:13:15.265Z'
 title: Yoga Classes
 author: []
 sourcePath: _posts/2016-03-16-yoga-classes.md
@@ -45,7 +45,7 @@ Class is 75' and starts with Pranayama or Breathing exercises. Followed
 by warming-up and then we start flowing. At the end there is always 
 Savasana. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd029d29ce0c43eb674d36bb78494af4a5dd7c53.jpg)
 
-## In mijn huis Studio
+## In mijn Studio
 
 **1 Discover Yoga**
 
@@ -66,11 +66,8 @@ Elke les begint met Pranayama of Ademhalings oefeningen gevolgd door een opwarmi
 
 If you wish to have your lessons in the confort of your own home or work space. I'm totally in to it! Contact me and we can surely work things out. 
 
-## Zal ik naar je toekomen?
+## Ik kan ook naar je toekomen...
 
-Als je wens kan ik ook naar jou toekomen :-) 
-
-Ik bied privé lessen voor jou alleen of voor groepen.   
-Prijzen zijn over een te komen.
+Als je wens kan ik ook naar jou toekomen :-)                                                      Ik bied privé lessen voor jou alleen of voor groepen.  Contacteer me gerust met je vragen. 
 
 ****
