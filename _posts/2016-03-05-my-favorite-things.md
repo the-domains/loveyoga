@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "One of my first Loves must have been the sunrise and although I am a child of the Sun I'm also a child from the Mountains. "
-datePublished: '2016-03-16T23:31:09.458Z'
-dateModified: '2016-03-16T23:31:05.652Z'
+datePublished: '2016-03-23T14:54:41.257Z'
+dateModified: '2016-03-23T14:54:40.668Z'
 title: 'My Favorite Things '
 author: []
 sourcePath: _posts/2016-03-05-my-favorite-things.md
@@ -29,5 +29,8 @@ One of my first Loves must have been the sunrise and although I am a child of th
 I want to share some music with you: [music for the soul][0]
 
 [][0]
+
+[][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91b55d28-0e21-4ad9-b3e3-b654dade7a5b.jpg)
 
 [0]: https://open.spotify.com/user/wendymontellano/playlist/0krajvdfbqw2zPLPBjLPok
