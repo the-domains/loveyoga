@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "1\_\_ Discover Yoga "
-datePublished: '2016-03-25T09:39:54.718Z'
-dateModified: '2016-03-23T15:10:16.900Z'
+datePublished: '2016-03-25T09:42:07.836Z'
+dateModified: '2016-03-25T09:40:03.022Z'
 title: 'Yoga Classes '
 author: []
 sourcePath: _posts/2016-03-16-yoga-classes.md
