@@ -1,14 +1,14 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "1\_\_ Discover Yoga "
-datePublished: '2016-03-23T15:07:00.600Z'
-dateModified: '2016-03-23T15:05:24.394Z'
-title: Yoga Classes
+datePublished: '2016-03-25T09:39:54.718Z'
+dateModified: '2016-03-23T15:10:16.900Z'
+title: 'Yoga Classes '
 author: []
 sourcePath: _posts/2016-03-16-yoga-classes.md
 published: true
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: yoga-classes/index.html
-_type: WebPage
+_type: Article
 
 ---
 ## In my home studio 
