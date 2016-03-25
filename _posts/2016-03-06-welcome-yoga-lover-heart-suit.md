@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "I’m honored you are here.\_Enjoy my love for yoga and my love for life."
-datePublished: '2016-03-25T11:01:01.502Z'
-dateModified: '2016-03-25T11:00:46.252Z'
+datePublished: '2016-03-25T11:01:35.555Z'
+dateModified: '2016-03-25T11:01:08.220Z'
 title: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ॐ"
 author: []
 sourcePath: _posts/2016-03-06-welcome-yoga-lover-heart-suit.md
