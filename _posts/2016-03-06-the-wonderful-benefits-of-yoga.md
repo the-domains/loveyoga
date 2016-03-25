@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "Most people start their yoga journey with the thought of body work. Everyone wants the 'yoga body' right... Well let me tell you something! You have a body.... therefore you have already a yoga body! Jey\_ "
-datePublished: '2016-03-25T09:16:54.735Z'
-dateModified: '2016-03-23T21:04:44.077Z'
+datePublished: '2016-03-25T09:41:57.768Z'
+dateModified: '2016-03-25T09:40:08.643Z'
 title: "Yoga's Wonderful Benefits"
 author: []
 sourcePath: _posts/2016-03-06-the-wonderful-benefits-of-yoga.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: the-wonderful-benefits-of-yoga/index.html
-_type: Article
+_type: WebPage
 
 ---
 ## Yoga is good for Body, Spirit and Mind. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/82e754d930c09584f48751ab4c651fd438e8ca7a.jpg)
