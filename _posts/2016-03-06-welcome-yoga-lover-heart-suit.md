@@ -3,12 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
 keywords: []
-description: "I’m honored you are here.\_Enjoy my love for yoga and my love for life."
-datePublished: '2016-04-05T20:24:34.300Z'
-dateModified: '2016-04-05T20:24:31.770Z'
-title: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ॐ"
+description: I’m honored you are here. Enjoy my love for yoga and my love for life.
+datePublished: '2016-04-25T10:26:46.248Z'
+dateModified: '2016-04-25T10:26:42.853Z'
+title: 'Music for the body, Inspiration for the soul, Passion for the Heart '
 author: []
 sourcePath: _posts/2016-03-06-welcome-yoga-lover-heart-suit.md
 published: true
@@ -18,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: true
 url: welcome-yoga-lover-heart-suit/index.html
 _type: Article
 
