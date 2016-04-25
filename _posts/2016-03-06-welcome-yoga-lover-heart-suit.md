@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: I’m honored you are here. Enjoy my love for yoga and my love for life.
-datePublished: '2016-04-25T10:38:07.647Z'
-dateModified: '2016-04-25T10:35:50.141Z'
+datePublished: '2016-04-25T10:38:28.720Z'
+dateModified: '2016-04-25T10:38:26.017Z'
 title: "I'm a smiling Yogini"
 author:
   - name: ''
