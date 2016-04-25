@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '1 Discover Yoga '
-datePublished: '2016-04-25T10:25:33.153Z'
-dateModified: '2016-04-25T10:24:51.858Z'
-title: 'In my home studio '
+datePublished: '2016-04-25T10:52:32.150Z'
+dateModified: '2016-04-25T10:51:56.039Z'
+title: 'Enjoy Yoga with me '
 author: []
 sourcePath: _posts/2016-03-16-yoga-classes.md
 published: true
@@ -22,7 +22,7 @@ url: yoga-classes/index.html
 _type: Article
 
 ---
-## In my home studio 
+## Enjoy Yoga with me
 
 **1 Discover Yoga **
 
@@ -41,8 +41,6 @@ Each Class is 75' and starts with Pranayama or Breathing exercises. Followed by 
 ## In mijn Studio
 
 **1 Discover Yoga**
-
-Vanaf 09 April 2016 kan je 5 zaterdagen lang genieten van de basis. 
 
 Dit zijn specifieke lessen voor beginners, maar ook gevorderden kunnen uiteraard veel herontdekken. Als je nooit gedurfd hebt om te starten met yoga is dit je uitgelezen kans! Kom en ontdek de fantastische wereld van yoga.
 
