@@ -3,12 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: "1\_\_ Discover Yoga "
-datePublished: '2016-03-25T09:42:07.836Z'
-dateModified: '2016-03-25T09:40:03.022Z'
-title: 'Yoga Classes '
+description: '1 Discover Yoga '
+datePublished: '2016-04-25T10:25:33.153Z'
+dateModified: '2016-04-25T10:24:51.858Z'
+title: 'In my home studio '
 author: []
 sourcePath: _posts/2016-03-16-yoga-classes.md
 published: true
@@ -18,32 +17,26 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: yoga-classes/index.html
 _type: Article
 
 ---
 ## In my home studio 
 
-**1   Discover Yoga **
+**1 Discover Yoga **
 
-Start 09 April 2016\. Every Saturday
-morning for 5 weeks.                               This are the basics. If you are new to yoga this is it! Just try it... everyone
-is new so have no shame! Play and let it go.   
+If you are new to yoga this is it! Just try it... everyone is new so have no shame! Play and let it go. 
 
 **2 Tone your Body for Summer Yoga**
 
-Start 09 April 2016 until June.                                                                         Each Saturday morning and Wednesday evening
+This may I want to start this series. Each Saturday morning and Wednesday evening (if there are enough candidates)
 
-This are Vinyasa Flow Classes with a lot
-of Yang energy. Get energized and **core-toned** for steamy summer nights! Let's detox first and
-then get all the sweet sukha (this is the good stuff) back into our lives. You'll love this! 
+Vinyasa Flow Classes with a lot of Yang energy. Get energized and **core-toned** for steamy summer nights! Let's detox first and then get all the sweet sukha (this is the good stuff) back into our lives. You'll love this! 
 
 I promise. 
 
-Each
-Class is 75' and starts with Pranayama or Breathing exercises. Followed
-by warming-up and then we start flowing. At the end there is always 
-Savasana. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd029d29ce0c43eb674d36bb78494af4a5dd7c53.jpg)
+Each Class is 75' and starts with Pranayama or Breathing exercises. Followed by warming-up and then we start flowing. At the end there is always Savasana. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd029d29ce0c43eb674d36bb78494af4a5dd7c53.jpg)
 
 ## In mijn Studio
 
@@ -53,7 +46,7 @@ Vanaf 09 April 2016 kan je 5 zaterdagen lang genieten van de basis.
 
 Dit zijn specifieke lessen voor beginners, maar ook gevorderden kunnen uiteraard veel herontdekken. Als je nooit gedurfd hebt om te starten met yoga is dit je uitgelezen kans! Kom en ontdek de fantastische wereld van yoga.
 
-**2  Maak je lichaam zomer klaar! **
+**2 Maak je lichaam zomer klaar! **
 
 Van 09 april elke zaterdag en woensdag.
 
@@ -68,6 +61,6 @@ If you wish to have your lessons in the confort of your own home or work space. 
 
 ## Lessen onderweg
 
-Als je wens kan ik ook naar jou toekomen :-)                                                      Ik bied privé lessen voor jou alleen of voor groepen.  Contacteer me gerust met je vragen. 
+Als je wens kan ik ook naar jou toekomen :-) Ik bied privé lessen voor jou alleen of voor groepen. Contacteer me gerust met je vragen. 
 
 ****
