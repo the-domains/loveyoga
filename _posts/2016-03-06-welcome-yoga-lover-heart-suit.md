@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: I’m honored you are here. Enjoy my love for yoga and my love for life.
-datePublished: '2016-04-25T10:33:03.925Z'
-dateModified: '2016-04-25T10:31:35.574Z'
+datePublished: '2016-04-25T10:34:28.575Z'
+dateModified: '2016-04-25T10:34:18.441Z'
 title: "I'm a smiling Yogini"
 author:
   - name: ''
@@ -24,6 +24,7 @@ url: welcome-yoga-lover-heart-suit/index.html
 _type: Article
 
 ---
+## Music for the body, Inspiration for the soul, Passion for the Heart ॐ
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b71cb94b-8db8-4b41-9715-967ed642f566.jpg)
 
 I'm honored you are here. Enjoy my love for yoga and my love for life.
