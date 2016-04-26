@@ -1,6 +1,6 @@
 name: loveyoga
 favicon: null
-layout_spectrum: 0.9342
+layout_spectrum: 1
 typography_spectrum: 0.48722
 title: '♡ Hello Yoga Lover ♡ '
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.875
   lightness: 0.9375
   saturation: 0.875
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.75
 purpose: []
