@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '1 Discover Yoga '
-datePublished: '2016-04-26T14:46:10.330Z'
-dateModified: '2016-04-26T14:46:07.550Z'
-title: 'Where can you find me? '
+datePublished: '2016-04-26T14:55:41.815Z'
+dateModified: '2016-04-26T14:46:18.106Z'
+title: Where can you find me?
 author: []
 sourcePath: _posts/2016-03-16-yoga-classes.md
 published: true
