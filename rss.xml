@@ -4,7 +4,7 @@
         <description><![CDATA[♡ Hello Yoga Lover ♡ ]]></description>
         <link>https://thegrid.ai/loveyoga/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 14:52:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 14:55:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/loveyoga/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[I'm a smiling Yogini]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/loveyoga/welcome-yoga-lover-heart-suit/index.html</link>
             <guid isPermaLink="false">e21d812a-c02e-4601-86d3-e62c72043f05</guid>
             <pubDate>Tue, 26 Apr 2016 14:50:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Where can you find me?]]></title>
+            <description><![CDATA[<article><h1>Where can you find me?</h1><p>1 Discover Yoga </p></article>]]></description>
+            <link>https://thegrid.ai/loveyoga/yoga-classes/index.html</link>
+            <guid isPermaLink="false">64520432-3346-4bb7-ba54-87f5c8cce7e9</guid>
+            <pubDate>Tue, 26 Apr 2016 14:55:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Enjoy and discover Yoga with me]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/loveyoga/about-me/index.html</link>
             <guid isPermaLink="false">539ad0a2-d373-4ab3-b86f-eb3ff45fcfc1</guid>
             <pubDate>Tue, 26 Apr 2016 14:47:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Where can you find me?]]></title>
-            <description><![CDATA[<article><h1>Where can you find me?</h1><p>1 Discover Yoga </p></article>]]></description>
-            <link>https://thegrid.ai/loveyoga/yoga-classes/index.html</link>
-            <guid isPermaLink="false">64520432-3346-4bb7-ba54-87f5c8cce7e9</guid>
-            <pubDate>Tue, 26 Apr 2016 14:46:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
