@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "One of my first Loves must have been the sunrise and although I am a child of the Sun I'm also a child of the Mountains. I don't see it as a coincidence that my name has 'mountains' in it... Next to that I'm always attracted by nature in it's raw & pure form. I live years in the city and this has been very nice but my heart always craves for nature. I guess it's like a proces you have to go through, to relize where your heart lies, it's good to know all the other options you have. And I've learend that just by watching the sky (even in the city) I'm in nature. Nature is everywhere, my heart is everywhere."
-datePublished: '2016-05-09T10:49:19.009Z'
-dateModified: '2016-05-09T10:49:17.123Z'
+datePublished: '2016-05-09T10:50:12.947Z'
+dateModified: '2016-05-09T10:49:49.107Z'
 title: 'My Birthplace La Paz '
 author:
   - name: ''
@@ -23,6 +23,7 @@ url: my-favorite-things/index.html
 _type: WebPage
 
 ---
+My Favorite things...
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/107014bc284b26b09188498864bdb0390d3d18a8.jpg)
 
 One of my first Loves must have been the sunrise and although I am a child of the Sun I'm also a child of the **Mountains**. I don't see it as a coincidence that my name has 'mountains' in it... Next to that I'm always attracted by nature in it's raw & pure form. I live years in the city and this has been very nice but my heart always craves for nature. I guess it's like a proces you have to go through, to relize where your heart lies, it's good to know all the other options you have. And I've learend that just by watching the sky (even in the city) I'm in nature. Nature is everywhere, my heart is everywhere.
