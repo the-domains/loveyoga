@@ -5,14 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: I’m honored you are here. Enjoy my love for yoga and my love for life.
-datePublished: '2016-04-26T14:58:34.886Z'
-dateModified: '2016-04-26T14:58:28.005Z'
+datePublished: '2016-05-09T10:40:07.692Z'
+dateModified: '2016-04-26T14:58:43.867Z'
 title: "I'm a smiling Yogini"
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-03-06-welcome-yoga-lover-heart-suit.md
-published: true
 authors: []
 publisher:
   name: null
