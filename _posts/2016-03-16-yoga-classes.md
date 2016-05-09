@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '1 Discover Yoga '
-datePublished: '2016-05-09T10:37:06.249Z'
-dateModified: '2016-05-09T10:30:24.524Z'
+datePublished: '2016-05-09T10:38:29.123Z'
+dateModified: '2016-05-09T10:37:29.355Z'
 title: Enjoy Yoga with me
 author: []
 sourcePath: _posts/2016-03-16-yoga-classes.md
