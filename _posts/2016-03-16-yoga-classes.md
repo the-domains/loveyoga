@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '1 Discover Yoga '
-datePublished: '2016-05-09T10:39:19.627Z'
-dateModified: '2016-05-09T10:39:14.124Z'
-title: Enjoy Yoga with me
-author: []
+datePublished: '2016-05-09T10:39:44.634Z'
+dateModified: '2016-05-09T10:39:41.012Z'
+title: Where can you find me?
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-03-16-yoga-classes.md
 authors: []
 publisher:
@@ -21,8 +23,6 @@ url: yoga-classes/index.html
 _type: Article
 
 ---
-## Enjoy Yoga with me
-
 ## Where can you find me?
 
 ## In my home studio
