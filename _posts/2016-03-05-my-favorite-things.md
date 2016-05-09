@@ -5,14 +5,13 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "One of my first Loves must have been the sunrise and although I am a child of the Sun I'm also a child of the Mountains. I don't see it as a coincidence that my name has 'mountains' in it... Next to that I'm always attracted by nature in it's raw & pure form. I live years in the city and this has been very nice but my heart always craves for nature. I guess it's like a proces you have to go through, to relize where your heart lies, it's good to know all the other options you have. And I've learend that just by watching the sky (even in the city) I'm in nature. Nature is everywhere, my heart is everywhere."
-datePublished: '2016-04-26T14:39:29.736Z'
-dateModified: '2016-04-26T14:39:20.858Z'
+datePublished: '2016-05-09T10:45:12.816Z'
+dateModified: '2016-04-26T14:39:38.586Z'
 title: 'My Birthplace La Paz '
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-03-05-my-favorite-things.md
-published: true
 authors: []
 publisher:
   name: null
