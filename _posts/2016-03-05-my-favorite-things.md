@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Let me tell you what else I love...
-datePublished: '2016-05-18T09:35:39.569Z'
-dateModified: '2016-05-18T09:34:33.575Z'
+datePublished: '2016-05-18T09:36:55.508Z'
+dateModified: '2016-05-18T09:35:40.020Z'
 author:
   - name: ''
     url: ''
@@ -33,10 +33,10 @@ Next to that I'm always attracted by **nature** 💗 in it's raw & pure form. ![
 
 I live for years in the city and this has been very nice but my heart always craves for nature. I guess that to relize where your heart lies, it's good to know all the other options you have. And I've learend that just by watching the sky (even in the city) I'm in nature... Nature is everywhere, so my heart is everywhere. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f863708f-ed91-45af-b186-e995fb253ceb.jpg)
 
+I should tell you: I love **cycling** ♡ 
+
 And then there is: **Music **♡   
 I'm litteraly in love with good music! More than that I'm addicted to it! Oh I know it's not yogic but I'm human. 
-
-I should tell you: I love cycling ♡ 
 
 Let me share some of my favorite****soul moving, heart filling sounds from me for you: [music for the soul.][0]
 
