@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "One of my first Loves must have been the sunrise and although I am a child of the Sun I'm also a child of the Mountains. I don't see it as a coincidence that my name has 'mountains' in it... as 'Monte' means mountain in Spanish. ;-) "
-datePublished: '2016-05-18T08:36:40.255Z'
-dateModified: '2016-05-18T08:34:05.275Z'
+datePublished: '2016-05-18T08:38:18.906Z'
+dateModified: '2016-05-18T08:36:41.886Z'
 author:
   - name: ''
     url: ''
@@ -34,8 +34,9 @@ I live for years in the city and this has been very nice but my heart always cra
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fffe7d4cdd770f3cf32e0ece1fd3f142314d44f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91b55d28-0e21-4ad9-b3e3-b654dade7a5b.jpg)
 
-And then there is: Music ♡
+And then there is: **Music **♡   
+I'm litteraly in love with good music! More than that I'm addicted to it! Oh I know it's not yogic but I'm human.   
 
-**Music** with you: [music for the soul.][0] I'm litteraly in love with good music! More than that I'm addicted to it! Oh I know it's not yogic but I'm human.
+Let me share some of my favorite****soul moving, heart filling sounds from me for you: [music for the soul.][0]
 
 [0]: https://open.spotify.com/user/wendymontellano/playlist/0krajvdfbqw2zPLPBjLPok
