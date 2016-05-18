@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'If you are new to yoga this is it! Just try it... everyone is new so have no shame! Play and let it go.'
-datePublished: '2016-05-18T10:42:13.684Z'
-dateModified: '2016-05-18T10:42:09.284Z'
+datePublished: '2016-05-18T10:44:05.559Z'
+dateModified: '2016-05-18T10:43:25.902Z'
 author:
   - name: ''
     url: ''
@@ -22,7 +22,7 @@ _type: Article
 ## Where to practice with me?
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd029d29ce0c43eb674d36bb78494af4a5dd7c53.jpg)
 
-## In my Home Studio  
+## In my Home Studio
 
 **1 Discover Yoga**
 
