@@ -4,14 +4,14 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: "One of my first Loves must have been the sunrise and although I am a child of the Sun I'm also a child of the Mountains. I don't see it as a coincidence that my name has 'mountains' in it... as 'Monte' means mountain in Spanish. ;-)"
-datePublished: '2016-05-18T08:40:05.918Z'
-dateModified: '2016-05-18T08:40:02.267Z'
+description: 'Let me tell you what else I love... '
+datePublished: '2016-05-18T08:41:58.111Z'
+dateModified: '2016-05-18T08:41:54.595Z'
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-03-05-my-favorite-things.md
-title: "Let me tell you what more I love \uD83D\uDC97"
+title: My Favorite Things
 authors: []
 publisher:
   name: null
@@ -23,9 +23,10 @@ url: my-favorite-things/index.html
 _type: WebPage
 
 ---
+My Favorite Things 💗
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc115842-b2c4-48f0-b015-9df20466f5fd.jpg)
 
-## Let me tell you what more I love 💗
+Let me tell you what else I love...
 
 One of my first Loves must have been the sunrise and although I am a child of the Sun I'm also a child of the **Mountains**. I don't see it as a coincidence that my name has 'mountains' in it... as 'Monte' means mountain in Spanish. ;-)
 
