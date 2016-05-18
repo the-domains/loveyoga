@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'If you are new to yoga this is it! Just try it... everyone is new so have no shame! Play and let it go.'
-datePublished: '2016-05-18T10:44:22.522Z'
-dateModified: '2016-05-18T10:44:12.938Z'
+datePublished: '2016-05-18T11:24:20.842Z'
+dateModified: '2016-05-18T11:22:47.751Z'
 author:
   - name: ''
     url: ''
@@ -40,8 +40,5 @@ Each Class is 75' and starts with Pranayama or Breathing exercises. Followed by 
 
 ## In your own space
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d24f794062fcb271ddd950c06d6e6d8f/passthrough.jpg?height=501&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F967f1c46f29ad82b6557bc343d37f8c759ca6478.jpg&width=750)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/967f1c46f29ad82b6557bc343d37f8c759ca6478.jpg)
 
-## In nature 
-
-I love Yoga outside! So I'm happy to
+##
