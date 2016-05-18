@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'If you are new to yoga this is it! Just try it... everyone is new so have no shame! Play and let it go.'
-datePublished: '2016-05-18T10:41:03.334Z'
-dateModified: '2016-05-18T10:40:29.779Z'
+datePublished: '2016-05-18T10:41:12.799Z'
+dateModified: '2016-05-18T10:41:09.113Z'
 author:
   - name: ''
     url: ''
