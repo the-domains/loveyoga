@@ -5,12 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "Most people start their yoga journey with the thought of body work. Everyone wants the 'yoga body' right... Well let me tell you something! You have a body.... therefore you have already a yoga body! Jey "
-datePublished: '2016-04-26T15:04:20.056Z'
-dateModified: '2016-04-26T14:49:30.975Z'
+datePublished: '2016-05-18T08:43:01.545Z'
+dateModified: '2016-04-26T15:04:29.187Z'
 title: 'Yoga is good for Body, Spirit and Mind. '
 author: []
 sourcePath: _posts/2016-03-06-the-wonderful-benefits-of-yoga.md
-published: true
 authors: []
 publisher:
   name: null
