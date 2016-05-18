@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'If you are new to yoga this is it! Just try it... everyone is new so have no shame! Play and let it go.'
-datePublished: '2016-05-18T10:36:44.732Z'
-dateModified: '2016-05-18T10:36:16.011Z'
+datePublished: '2016-05-18T10:40:09.015Z'
+dateModified: '2016-05-18T10:40:08.587Z'
 author:
   - name: ''
     url: ''
@@ -19,6 +19,7 @@ url: where-can-you-find-me/index.html
 _type: Article
 
 ---
+## Where to practice with me?
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd029d29ce0c43eb674d36bb78494af4a5dd7c53.jpg)
 
 ## In my home studio
@@ -37,14 +38,9 @@ I promise.
 
 Each Class is 75' and starts with Pranayama or Breathing exercises. Followed by warming-up and then we start flowing. At the end there is always Savasana.
 
-## 
-
 ## In your own space
-
-  
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d24f794062fcb271ddd950c06d6e6d8f/passthrough.jpg?height=501&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F967f1c46f29ad82b6557bc343d37f8c759ca6478.jpg&width=750)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/967f1c46f29ad82b6557bc343d37f8c759ca6478.jpg)
-
-If you wish to have your lessons in the confort of your own home or work space. I'm totally in to it! Contact me and we can surely work things out....
 
 ## In nature 
 
