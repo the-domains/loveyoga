@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Let me tell you what else I love...
-datePublished: '2016-05-18T11:51:32.750Z'
-dateModified: '2016-05-18T11:51:27.769Z'
+datePublished: '2016-05-19T21:23:29.713Z'
+dateModified: '2016-05-19T21:21:19.627Z'
 author:
   - name: ''
     url: ''
@@ -30,9 +30,12 @@ I don't see it as a coincidence that my name has 'mountains' in it... as 'Monte'
 
 Next to that I'm always attracted by **nature** 💗 in it's raw & pure form. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91b55d28-0e21-4ad9-b3e3-b654dade7a5b.jpg)
 
-I live for years in the city and this has been very nice but my heart always craves for nature. I guess that to relize where your heart lies, it's good to know all the other options you have. And I've learend that just by watching the sky (even in the city) I'm in nature... Nature is everywhere, so my heart is everywhere. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f863708f-ed91-45af-b186-e995fb253ceb.jpg)
+I live for years in the city and this has been very nice but my heart always craves for nature. I guess that to relize where your heart lies, it's good to know all the other options you have. And I've learend that just by watching the sky (even in the city) I'm in nature... Nature is everywhere, so my heart is everywhere. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a224f049-63cd-49c7-b46e-0a1cd4bca3cb.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f863708f-ed91-45af-b186-e995fb253ceb.jpg)
 
 I should tell you: I love **cycling****💗**
+
+****
 
 And then there is: **Music ****💗**  
 I'm litteraly in love with good music! More than that I'm addicted to it! Oh I know it's not yogic but I'm human. 
