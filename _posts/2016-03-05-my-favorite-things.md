@@ -5,13 +5,13 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Let me tell you what else I love...
-datePublished: '2016-05-19T21:23:29.713Z'
-dateModified: '2016-05-19T21:21:19.627Z'
+datePublished: '2016-05-20T11:16:41.418Z'
+dateModified: '2016-05-20T10:57:04.722Z'
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-03-05-my-favorite-things.md
-title: "My Favorite Things \uD83D\uDC97"
+title: 'My Favorite Things '
 authors: []
 publisher: null
 starred: false
