@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "Most people start their yoga journey with the thought of body work. Everyone wants the 'yoga body' right... Well let me tell you something! You have a body.... therefore you have already a yoga body! Jey "
-datePublished: '2016-05-24T09:32:46.048Z'
-dateModified: '2016-05-24T09:32:41.490Z'
+datePublished: '2016-05-24T09:35:24.776Z'
+dateModified: '2016-05-24T09:34:40.407Z'
 title: Benefits of Yoga in daily life
 author: []
 sourcePath: _posts/2016-03-06-the-wonderful-benefits-of-yoga.md
@@ -32,7 +32,7 @@ Best results are of course gained with daily practice, but you should do whateve
 Yoga gives you: a **Better Body image**. Focusing inward during yoga helps you to be more satisfied with your body and less critical of it. 
 
 It encourages you to **a Mindful Eating **habbits****: being more aware of how your body feels carries over to mealtimes as you savor each bite or sip and notice how good food smells, tastes and feels in your mouth.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc264d97-cad5-45d9-925e-9b8312e98504.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b9b5ab116d3a9f4c30e1d3726c97773e3845253.jpg)
 
 Your **Heart Benefits **from it! Because yoga helps to lower blood pressure, cholesterol and blood sugar; all of this which are good for your heart and blood vessels.
 
@@ -42,6 +42,6 @@ Helps you with **Weight Control**. Because mindfulness developed through yoga ca
 It's good for your **Overal Fitness. **Practicing yoga a couple times a week increases muscle strength and flexibility, boosts endurance, and tunes up your heart, lungs and blood vessels. 
 
 And above all it makes you **'glow'******from joy and health.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c57296e-8517-4fe5-8463-49e983c5fb1f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca935ea1a33faf773c64b8f8d4ec230a8bb93a66.jpg)
 
 'Yoga is the journey of the self and a key to happiness for me' -- Wendy Yogini
