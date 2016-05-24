@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Let me share with you my other loves...
-datePublished: '2016-05-24T11:57:48.257Z'
-dateModified: '2016-05-24T11:57:41.841Z'
+datePublished: '2016-05-24T11:58:23.773Z'
+dateModified: '2016-05-24T11:58:19.968Z'
 author:
   - name: ''
     url: ''
@@ -19,7 +19,7 @@ url: my-favorite-things/index.html
 _type: WebPage
 
 ---
-## My Favorite Things ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc115842-b2c4-48f0-b015-9df20466f5fd.jpg)
+## ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc115842-b2c4-48f0-b015-9df20466f5fd.jpg)
 
 Let me share with you my other loves...
 
