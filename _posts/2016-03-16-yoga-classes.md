@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'If you are new to yoga this is it! Just try it... everyone is new so have no shame! Play and let it go.'
-datePublished: '2016-05-18T11:26:57.207Z'
-dateModified: '2016-05-18T11:26:30.931Z'
+datePublished: '2016-05-24T09:38:11.988Z'
+dateModified: '2016-05-19T21:14:42.706Z'
 author:
   - name: ''
     url: ''
@@ -38,7 +38,7 @@ I promise.
 
 Each Class is 75' and starts with Pranayama or Breathing exercises. Followed by warming-up and then we start flowing. At the end there is always Savasana.
 
-## In your own space
+## On the move...
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d24f794062fcb271ddd950c06d6e6d8f/passthrough.jpg?height=501&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F967f1c46f29ad82b6557bc343d37f8c759ca6478.jpg&width=750)
 
 I can also come to you and we can practice together in the confort of your home or space. Just contact me and I'm sure we can figure out something...
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d24f794062fcb271ddd950c06d6e6d8f/passthrough.jpg?height=501&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F967f1c46f29ad82b6557bc343d37f8c759ca6478.jpg&width=750)
