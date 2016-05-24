@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Let me share with you my other loves...
-datePublished: '2016-05-24T10:32:06.318Z'
-dateModified: '2016-05-24T10:31:47.794Z'
+datePublished: '2016-05-24T10:33:05.867Z'
+dateModified: '2016-05-24T10:32:48.317Z'
 author:
   - name: ''
     url: ''
@@ -28,7 +28,7 @@ How it touches your skin, makes you warm and instandly smile.********
 
 Next to that I'm always attracted by **Nature** ❤ in it's raw & pure form. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91b55d28-0e21-4ad9-b3e3-b654dade7a5b.jpg)
 
-I live for years in the city and this has been very nice but my heart always craves for nature. And I've learend that just by watching the sky (even in the city) I'm in nature... Nature is everywhere, so my heart is everywhere. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a224f049-63cd-49c7-b46e-0a1cd4bca3cb.jpg)
+I live for years in the city and this has been very nice but my heart always craves for nature. And I've learend that just by watching the sky (even in the city) I'm in nature... Nature is everywhere, so my heart is everywhere. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eea1b57d8e2ecfcd807ad0b82f50353367d1439a.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fffe7d4cdd770f3cf32e0ece1fd3f142314d44f.jpg)
 
 I'm also a child of the **Mountains ❤**  
