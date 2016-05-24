@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'If you are new to yoga this is it! Just try it... everyone is new so have no shame! Play and let it go.'
-datePublished: '2016-05-24T09:38:11.988Z'
-dateModified: '2016-05-19T21:14:42.706Z'
+datePublished: '2016-05-24T09:39:42.680Z'
+dateModified: '2016-05-24T09:39:07.305Z'
 author:
   - name: ''
     url: ''
@@ -30,7 +30,7 @@ If you are new to yoga this is it! Just try it... everyone is new so have no sha
 
 **2 Tone your Body for Summer Yoga**
 
-This may I want to start this series. Each Saturday morning and Wednesday evening (if there are enough candidates)
+This june I want to start this series. Each Saturday morning and Wednesday evening (if there are enough candidates)
 
 Vinyasa Flow Classes with a lot of Yang energy. Get energized and **core-toned** for steamy summer nights! Let's detox first and then get all the sweet sukha (this is the good stuff) back into our lives. You'll love this!
 
