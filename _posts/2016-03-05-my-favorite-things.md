@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Let me share with you my other loves...
-datePublished: '2016-05-24T10:15:32.769Z'
-dateModified: '2016-05-24T10:15:08.056Z'
+datePublished: '2016-05-24T10:32:06.318Z'
+dateModified: '2016-05-24T10:31:47.794Z'
 author:
   - name: ''
     url: ''
@@ -23,22 +23,24 @@ _type: WebPage
 
 Let me share with you my other loves...
 
-One of my first Loves must have been the **Sun **💗****
+One of my first Loves must have been the **Sun **❤ ********  
+How it touches your skin, makes you warm and instandly smile.********
 
-And although I am a child of the sun I'm also a child of the **Mountains 💗**.   
-I don't see it as a coincidence that my name has 'mountains' in it... as 'Monte' means mountain in Spanish. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fffe7d4cdd770f3cf32e0ece1fd3f142314d44f.jpg)
-
-Next to that I'm always attracted by **nature** 💗 in it's raw & pure form. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91b55d28-0e21-4ad9-b3e3-b654dade7a5b.jpg)
+Next to that I'm always attracted by **Nature** ❤ in it's raw & pure form. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91b55d28-0e21-4ad9-b3e3-b654dade7a5b.jpg)
 
 I live for years in the city and this has been very nice but my heart always craves for nature. And I've learend that just by watching the sky (even in the city) I'm in nature... Nature is everywhere, so my heart is everywhere. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a224f049-63cd-49c7-b46e-0a1cd4bca3cb.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f863708f-ed91-45af-b186-e995fb253ceb.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fffe7d4cdd770f3cf32e0ece1fd3f142314d44f.jpg)
 
-I flirt **cycling. **I've always loved that but since december 2015 I really started to do it like (a bit of a freak) check: [Bike-a-boo.][0]
+I'm also a child of the **Mountains ❤**  
+I don't see it as a coincidence that my name has 'mountains' in it... as 'Monte' means mountain in Spanish. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f863708f-ed91-45af-b186-e995fb253ceb.jpg)
+
+I flirt with **cycling ❤******I've always loved this, but since december 2015 I really started to do it like...a bit of a freak with the girls of [Bike-a-boo.][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e723020-4123-48f7-8a85-a5e2b7737a60.jpg)
 
-This is a group of girls with whom I've cycled against cancer in may 2015\. Crazy lovely girls!
+This is a group of woman with whom I've cycled against cancer in may 2015\. Crazy lovely girls! ❤
 
-I have the most wonderful son on earth: **Romeo**. He's a gift from heaven and like me he shares the the love of **yoga.**
+I have the most wonderful son on earth: **Romeo** ❤   
+He's a gift from heaven and like me he shares the the love****for joy, life and of course: yoga.
 
 ****
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48ab9e83-9ab4-450b-b699-199cb0839c95.jpg)
@@ -46,7 +48,7 @@ I have the most wonderful son on earth: **Romeo**. He's a gift from heaven and l
 And then there is: **Music ****💗**  
 I'm litteraly in love with good music! More than that I'm addicted to it! Oh I know it's not yogic but I'm human. 
 
-Let me share some of my favorite****soul moving, heart filling sounds from me for you: [music for the soul.][1]
+Let me share some of my favorite ****soul moving, heart filling sounds from me for you (press the link) [music for the soul.][1]
 
 [][1]
 
