@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Let me share with you my other loves...
-datePublished: '2016-05-24T11:58:23.773Z'
-dateModified: '2016-05-24T11:58:19.968Z'
+datePublished: '2016-05-24T11:59:19.619Z'
+dateModified: '2016-05-24T11:59:05.216Z'
 author:
   - name: ''
     url: ''
@@ -19,14 +19,15 @@ url: my-favorite-things/index.html
 _type: WebPage
 
 ---
-## ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc115842-b2c4-48f0-b015-9df20466f5fd.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc115842-b2c4-48f0-b015-9df20466f5fd.jpg)
 
 Let me share with you my other loves...
 
 One of my first Loves must have been the **Sun **❤ ********  
 How it touches your skin, makes you warm and instandly smile.********
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91b55d28-0e21-4ad9-b3e3-b654dade7a5b.jpg)
 
-Next to that I'm always attracted by **Nature** ❤ in it's raw & pure form. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91b55d28-0e21-4ad9-b3e3-b654dade7a5b.jpg)
+Next to that I'm always attracted by **Nature** ❤ in it's raw & pure form. 
 
 I live for years in the city and this has been very nice but my heart always craves for nature. And I've learend that just by watching the sky (even in the city) I'm in nature... Nature is everywhere, so my heart is everywhere. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fffe7d4cdd770f3cf32e0ece1fd3f142314d44f.jpg)
 
