@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: Let me tell you what else I love...
-datePublished: '2016-05-20T11:16:41.418Z'
-dateModified: '2016-05-20T10:57:04.722Z'
+description: Let me share with you my other loves...
+datePublished: '2016-05-24T10:15:32.769Z'
+dateModified: '2016-05-24T10:15:08.056Z'
 author:
   - name: ''
     url: ''
@@ -19,9 +19,9 @@ url: my-favorite-things/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc115842-b2c4-48f0-b015-9df20466f5fd.jpg)
+## My Favorite Things ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc115842-b2c4-48f0-b015-9df20466f5fd.jpg)
 
-Let me tell you what else I love...
+Let me share with you my other loves...
 
 One of my first Loves must have been the **Sun **💗****
 
@@ -30,18 +30,25 @@ I don't see it as a coincidence that my name has 'mountains' in it... as 'Monte'
 
 Next to that I'm always attracted by **nature** 💗 in it's raw & pure form. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91b55d28-0e21-4ad9-b3e3-b654dade7a5b.jpg)
 
-I live for years in the city and this has been very nice but my heart always craves for nature. I guess that to relize where your heart lies, it's good to know all the other options you have. And I've learend that just by watching the sky (even in the city) I'm in nature... Nature is everywhere, so my heart is everywhere. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a224f049-63cd-49c7-b46e-0a1cd4bca3cb.jpg)
+I live for years in the city and this has been very nice but my heart always craves for nature. And I've learend that just by watching the sky (even in the city) I'm in nature... Nature is everywhere, so my heart is everywhere. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a224f049-63cd-49c7-b46e-0a1cd4bca3cb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f863708f-ed91-45af-b186-e995fb253ceb.jpg)
 
-I should tell you: I love **cycling****💗**
+I flirt **cycling. **I've always loved that but since december 2015 I really started to do it like (a bit of a freak) check: [Bike-a-boo.][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e723020-4123-48f7-8a85-a5e2b7737a60.jpg)
+
+This is a group of girls with whom I've cycled against cancer in may 2015\. Crazy lovely girls!
+
+I have the most wonderful son on earth: **Romeo**. He's a gift from heaven and like me he shares the the love of **yoga.**
 
 ****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48ab9e83-9ab4-450b-b699-199cb0839c95.jpg)
 
 And then there is: **Music ****💗**  
 I'm litteraly in love with good music! More than that I'm addicted to it! Oh I know it's not yogic but I'm human. 
 
-Let me share some of my favorite****soul moving, heart filling sounds from me for you: [music for the soul.][0]
+Let me share some of my favorite****soul moving, heart filling sounds from me for you: [music for the soul.][1]
 
-[][0]
+[][1]
 
-[0]: https://open.spotify.com/user/wendymontellano/playlist/0krajvdfbqw2zPLPBjLPok
+[0]: https://www.facebook.com/Bikeaboo/?ref=aymt_homepage_panel
+[1]: https://open.spotify.com/user/wendymontellano/playlist/0krajvdfbqw2zPLPBjLPok
