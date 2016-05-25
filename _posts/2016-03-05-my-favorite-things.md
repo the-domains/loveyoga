@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'One of my first Loves must have been the Sun  ❤  How it touches your skin, makes you warm and instandly smile.'
-datePublished: '2016-05-24T11:59:51.456Z'
-dateModified: '2016-05-24T11:59:43.557Z'
+datePublished: '2016-05-25T20:10:33.471Z'
+dateModified: '2016-05-25T20:10:31.481Z'
 author:
   - name: ''
     url: ''
@@ -45,13 +45,11 @@ Some place near Brussels during a cycling trip
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3bdd0efc995cf789fec6f01191385c8d/passthrough.jpg?height=563&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9e723020-4123-48f7-8a85-a5e2b7737a60.jpg&width=750)
 
 Bike a Boo with ou leader: Sarah Boo
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e723020-4123-48f7-8a85-a5e2b7737a60.jpg)
 
 I have the most wonderful son on earth: **Romeo** ❤   
 He's a gift from heaven and like me he shares the the love****for joy, life and of course: yoga.
 
 ****
-
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fc1ad1d56896cb90c3ce28a6724daa4a/passthrough.jpg?height=580&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F48ab9e83-9ab4-450b-b699-199cb0839c95.jpg&width=750)
 
 Yoga with my son: because it makes us happy
