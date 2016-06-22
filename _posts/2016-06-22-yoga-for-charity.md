@@ -1,19 +1,19 @@
 ---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
 description: >-
   Resently I joined this wonderfull group of yogi’s in Brussels! It's the KARMA
   YOGA PROJECT BRUSSELS.
-datePublished: '2016-06-22T16:53:15.977Z'
-inNav: false
-inLanguage: null
+datePublished: '2016-06-22T16:54:39.916Z'
+dateModified: '2016-06-22T16:54:22.490Z'
 author: []
 sourcePath: _posts/2016-06-22-yoga-for-charity.md
-hasPage: true
-authors: []
 title: Yoga for Charity
+authors: []
 publisher: null
-keywords: []
-dateModified: '2016-06-22T16:52:56.889Z'
-inFeed: true
 starred: true
 url: yoga-for-charity/index.html
 _type: Article
