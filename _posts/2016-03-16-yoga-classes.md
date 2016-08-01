@@ -4,16 +4,25 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'If you are new to yoga this is it! Just try it... everyone is new so have no shame! Play and let it go.'
-datePublished: '2016-05-24T09:39:42.680Z'
-dateModified: '2016-05-24T09:39:07.305Z'
+description: >-
+  If you are new to yoga this is it! I understand that a big yoga studio can be
+  hard to step into for the first time, that is why I start this sessions. Just
+  try it... it's in my place, everyone is new to yoga: so have no shame!  Play,
+  loose your fears and let it go.  
+datePublished: '2016-08-01T14:43:38.732Z'
+dateModified: '2016-08-01T14:21:01.226Z'
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-03-16-yoga-classes.md
 title: Where can you find me
+via: {}
 authors: []
-publisher: null
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: where-can-you-find-me/index.html
 _type: Article
@@ -24,15 +33,16 @@ _type: Article
 
 ## In my Home Studio
 
-**1 Discover Yoga**
+**1 Discover Yoga **
 
-If you are new to yoga this is it! Just try it... everyone is new so have no shame! Play and let it go.
+If you are new to yoga this is it! I understand that a big yoga studio can be hard to step into for the first time, that is why I start this sessions. Just try it... it's in my place, everyone is new to yoga: so have no shame!   
+Play, loose your fears and let it go. 
 
-**2 Tone your Body for Summer Yoga**
+From September 2016\. 
 
-This june I want to start this series. Each Saturday morning and Wednesday evening (if there are enough candidates)
+**2 Tone your Body with Yoga**
 
-Vinyasa Flow Classes with a lot of Yang energy. Get energized and **core-toned** for steamy summer nights! Let's detox first and then get all the sweet sukha (this is the good stuff) back into our lives. You'll love this!
+Vinyasa Flow Classes with a lot of Yang energy. Get energized and **core-toned** for steamy nights! Let's detox first and then get all the sweet sukha (this is the good stuff) back into our lives. You'll love this!
 
 I promise.
 
